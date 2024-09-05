@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sekuntikello", "Sekuntikello\Sekuntikello.csproj", "{4C663935-9D1D-468E-8E9A-C14F9055A483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C663935-9D1D-468E-8E9A-C14F9055A483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C663935-9D1D-468E-8E9A-C14F9055A483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C663935-9D1D-468E-8E9A-C14F9055A483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C663935-9D1D-468E-8E9A-C14F9055A483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2C67CB-3E31-4794-964C-4F96C89A66FA}
+	EndGlobalSection
+EndGlobal
